@@ -38,7 +38,7 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.hantang.wing</string>
+    <string>com.hantang.wak</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
@@ -46,7 +46,7 @@
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>Wing App download</string>
+    <string>Wak App download</string>
    </dict>
   </dict>
  </array>
